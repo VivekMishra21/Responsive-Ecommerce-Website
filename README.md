@@ -1,4 +1,4 @@
-# Responsive-Ecommerce-Website
+
 
 # Responsive Ecommerce Website
 
@@ -34,7 +34,7 @@ The project includes modern design practices, responsive layouts, and clean code
 
 ## 📸 Preview
 
-![Website Screenshot](link-to-screenshot.png)
+![Home Page Screenshot](home.png)
 
 
 
