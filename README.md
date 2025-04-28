@@ -34,7 +34,7 @@ The project includes modern design practices, responsive layouts, and clean code
 
 ## 📸 Preview
 
-![Home Page Screenshot](home.png)
+![Home Page Screenshot](Home.png)
 
 
 
