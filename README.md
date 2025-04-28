@@ -36,6 +36,10 @@ The project includes modern design practices, responsive layouts, and clean code
 
 ![Home Page Screenshot](Home.png)
 
+![Home Page Screenshot](page2.png)
+
+![Home Page Screenshot](page3.png)
+
 
 
 ## 📥 Installation
